@@ -1,2 +1,2 @@
 # F21DL
-Data Mining and Algorithms Course
+Data Mining and Machine Learning Course
