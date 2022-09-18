@@ -15,4 +15,6 @@
 - McDonald's Nutrition Facts [dataset](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)  
   Thoughts: this was our favourite until we found that it doesn't have a lot of data entries
 - Wine Reviews [dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews)  
-  Thoughts: that's why we switched to this one about wine, staying at the same topic, but with an increased number of data entries
+  Thoughts: that's why we considered this one about wine, staying at the same topic, but with an increased number of data entries
+- UFC-Fight [dataset](https://www.kaggle.com/datasets/rajeevw/ufcdata?select=raw_total_fight_data.csv)  
+  Thoughts: different topic, good amount of features and data entries 
