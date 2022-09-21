@@ -1,5 +1,5 @@
 ## What the dataset should have
-- At least around 500-1000 entries
+- At least around 500-1000 entries 
 - 10 or more features
 - Not contain images as this makes it more difficult and none of us have prior ML experience
 - Be interesting to work with
