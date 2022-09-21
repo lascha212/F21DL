@@ -18,3 +18,8 @@
   Thoughts: that's why we considered this one about wine, staying at the same topic, but with an increased number of data entries
 - UFC-Fight [dataset](https://www.kaggle.com/datasets/rajeevw/ufcdata?select=raw_total_fight_data.csv)  
   Thoughts: different topic, good amount of features and data entries 
+
+## Our choice
+- Student Performance in Exams [dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+
+We chose this one because 
